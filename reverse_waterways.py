@@ -25,6 +25,16 @@ class JunctionCounter(osmium.SimpleHandler):
             self.way_endpoints[w.id] = (start, end)
             self.node_to_way_start[start] += 1
             self.node_to_way_end[end] += 1
+            
+    def way(self, w):
+        excluded = {"dam", "fairway", "boatyard"}  # add more here if needed
+
+        if w.tags.get("waterway") and w.tags["waterway"] not in excluded and len(w.nodes) > 1:
+            start = w.nodes[0].ref
+            end = w.nodes[-1].ref
+            self.way_endpoints[w.id] = (start, end)
+            self.node_to_way_start[start] += 1
+            self.node_to_way_end[end] += 1
 
 def analyze_file(filename):
     print(f"Analyzing {filename}...")
