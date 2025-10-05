@@ -18,7 +18,7 @@ Egypt	https://download.geofabrik.de/africa/egypt-latest.osm.pbf	(164 MB)
 Equatorial Guinea	https://download.geofabrik.de/africa/equatorial-guinea-latest.osm.pbf	(6.1 MB)	0
 Eritrea	https://download.geofabrik.de/africa/eritrea-latest.osm.pbf	(26.9 MB)	
 Ethiopia	https://download.geofabrik.de/africa/ethiopia-latest.osm.pbf	(101 MB)	
-Gabon	https://download.geofabrik.de/africa/gabon-latest.osm.pbf	(22.1 MB)	
+Gabon	https://download.geofabrik.de/africa/gabon-latest.osm.pbf	(22.1 MB)	3
 Ghana	https://download.geofabrik.de/africa/ghana-latest.osm.pbf	(101 MB)	
 Guinea	https://download.geofabrik.de/africa/guinea-latest.osm.pbf	(107 MB)	
 Guinea-Bissau	https://download.geofabrik.de/africa/guinea-bissau-latest.osm.pbf	(10.0 MB)	2
@@ -58,7 +58,7 @@ Afghanistan	https://download.geofabrik.de/asia/afghanistan-latest.osm.pbf	(103 
 Armenia	https://download.geofabrik.de/asia/armenia-latest.osm.pbf	(48.3 MB)	
 Azerbaijan	https://download.geofabrik.de/asia/azerbaijan-latest.osm.pbf	(41.7 MB)	
 Bangladesh	https://download.geofabrik.de/asia/bangladesh-latest.osm.pbf	(314 MB)	
-Bhutan	[.osm.pbf]	(22.3 MB)	
+Bhutan	https://download.geofabrik.de/asia/bhutan-latest.osm.pbf	(22.3 MB)	
 Cambodia	https://download.geofabrik.de/asia/cambodia-latest.osm.pbf	(36.0 MB)	
 China	https://download.geofabrik.de/asia/china-latest.osm.pbf	(1.3 GB)	
 East Timor	https://download.geofabrik.de/asia/east-timor-latest.osm.pbf	(16.4 MB)	0
@@ -89,7 +89,7 @@ Syria	https://download.geofabrik.de/asia/syria-latest.osm.pbf	(68 MB)
 Taiwan	https://download.geofabrik.de/asia/taiwan-latest.osm.pbf	(289 MB)	
 Tajikistan	https://download.geofabrik.de/asia/tajikistan-latest.osm.pbf	(44.6 MB)	
 Thailand	https://download.geofabrik.de/asia/thailand-latest.osm.pbf	(290 MB)	
-Turkmenistan	https://download.geofabrik.de/asia/turkmenistan-latest.osm.pbf	(20.7 MB)	
+Turkmenistan	https://download.geofabrik.de/asia/turkmenistan-latest.osm.pbf	(20.7 MB)	7
 Uzbekistan	https://download.geofabrik.de/asia/uzbekistan-latest.osm.pbf	(91 MB)	
 Vietnam	https://download.geofabrik.de/asia/vietnam-latest.osm.pbf	(300 MB)	
 Yemen	https://download.geofabrik.de/asia/yemen-latest.osm.pbf	(40.3 MB)	
@@ -242,6 +242,6 @@ Ecuador	https://download.geofabrik.de/south-america/ecuador-latest.osm.pbf	(108�
 Guyana	https://download.geofabrik.de/south-america/guyana-latest.osm.pbf	(13.5 MB)	7
 Paraguay	https://download.geofabrik.de/south-america/paraguay-latest.osm.pbf	(145 MB)	
 Peru	https://download.geofabrik.de/south-america/peru-latest.osm.pbf	(223 MB)	
-Suriname	https://download.geofabrik.de/south-america/suriname-latest.osm.pbf	(19.9 MB)	
+Suriname	https://download.geofabrik.de/south-america/suriname-latest.osm.pbf	(19.9 MB)	4
 Uruguay	https://download.geofabrik.de/south-america/uruguay-latest.osm.pbf	(52 MB)	
 Venezuela	https://download.geofabrik.de/south-america/venezuela-latest.osm.pbf	(96 MB)	
